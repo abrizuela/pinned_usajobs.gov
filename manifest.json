@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://www.usajobs.gov/*"
+    "tabs"
   ],
 
   "browser_action": {
